@@ -9,10 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DbSeed", "DbSeed\DbSeed.csp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B760D927-091A-46B9-BC3D-F17730560400}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		MigrateDatabase.bat = MigrateDatabase.bat
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewShop.Data.Migration", "NewShop.Data.Migration\NewShop.Data.Migration.csproj", "{866CD119-AC0A-4A86-A346-E43598A7E7A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewShop.Data.Migration", "NewShop.Data.Migration\NewShop.Data.Migration.csproj", "{866CD119-AC0A-4A86-A346-E43598A7E7A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
