@@ -1,0 +1,10 @@
+C:\git\codefirst\MySqlEf\NewShop.Data.Migration\bin\Debug\netcoreapp2.0\NewShop.Data.Migration.deps.json
+C:\git\codefirst\MySqlEf\NewShop.Data.Migration\bin\Debug\netcoreapp2.0\NewShop.Data.Migration.dll
+C:\git\codefirst\MySqlEf\NewShop.Data.Migration\obj\Debug\netcoreapp2.0\NewShop.Data.Migration.csproj.CoreCompileInputs.cache
+C:\git\codefirst\MySqlEf\NewShop.Data.Migration\obj\Debug\netcoreapp2.0\NewShop.Data.Migration.AssemblyInfoInputs.cache
+C:\git\codefirst\MySqlEf\NewShop.Data.Migration\obj\Debug\netcoreapp2.0\NewShop.Data.Migration.AssemblyInfo.cs
+C:\git\codefirst\MySqlEf\NewShop.Data.Migration\bin\Debug\netcoreapp2.0\NewShop.Data.Migration.pdb
+C:\git\codefirst\MySqlEf\NewShop.Data.Migration\obj\Debug\netcoreapp2.0\NewShop.Data.Migration.dll
+C:\git\codefirst\MySqlEf\NewShop.Data.Migration\obj\Debug\netcoreapp2.0\NewShop.Data.Migration.pdb
+C:\git\codefirst\MySqlEf\NewShop.Data.Migration\bin\Debug\netcoreapp2.0\NewShop.Data.Migration.runtimeconfig.json
+C:\git\codefirst\MySqlEf\NewShop.Data.Migration\bin\Debug\netcoreapp2.0\NewShop.Data.Migration.runtimeconfig.dev.json

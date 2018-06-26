@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySqlEf.Data", "MySqlEf.Data\MySqlEf.Data.csproj", "{3934E35B-22B2-469E-9599-4CF08761B39A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DbSeed", "DbSeed\DbSeed.csproj", "{29A9AF9C-A4C5-4AC9-BA1D-99BC44A1EED5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B760D927-091A-46B9-BC3D-F17730560400}"
+	ProjectSection(SolutionItems) = preProject
+		MigrateDatabase.bat = MigrateDatabase.bat
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewShop.Data.Migration", "NewShop.Data.Migration\NewShop.Data.Migration.csproj", "{866CD119-AC0A-4A86-A346-E43598A7E7A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3934E35B-22B2-469E-9599-4CF08761B39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3934E35B-22B2-469E-9599-4CF08761B39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3934E35B-22B2-469E-9599-4CF08761B39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3934E35B-22B2-469E-9599-4CF08761B39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29A9AF9C-A4C5-4AC9-BA1D-99BC44A1EED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A9AF9C-A4C5-4AC9-BA1D-99BC44A1EED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A9AF9C-A4C5-4AC9-BA1D-99BC44A1EED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A9AF9C-A4C5-4AC9-BA1D-99BC44A1EED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{866CD119-AC0A-4A86-A346-E43598A7E7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866CD119-AC0A-4A86-A346-E43598A7E7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866CD119-AC0A-4A86-A346-E43598A7E7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866CD119-AC0A-4A86-A346-E43598A7E7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {712D8F4F-0EF7-4D02-96D9-8EB1DF4458F3}
+	EndGlobalSection
+EndGlobal

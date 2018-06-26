@@ -1,0 +1,14 @@
+C:\git\codefirst\MySqlEf\DbSeed\bin\Debug\netcoreapp2.0\DbSeed.deps.json
+C:\git\codefirst\MySqlEf\DbSeed\bin\Debug\netcoreapp2.0\DbSeed.runtimeconfig.json
+C:\git\codefirst\MySqlEf\DbSeed\bin\Debug\netcoreapp2.0\DbSeed.runtimeconfig.dev.json
+C:\git\codefirst\MySqlEf\DbSeed\bin\Debug\netcoreapp2.0\DbSeed.dll
+C:\git\codefirst\MySqlEf\DbSeed\bin\Debug\netcoreapp2.0\DbSeed.pdb
+C:\git\codefirst\MySqlEf\DbSeed\bin\Debug\netcoreapp2.0\MySqlEf.Data.dll
+C:\git\codefirst\MySqlEf\DbSeed\bin\Debug\netcoreapp2.0\MySqlEf.Data.pdb
+C:\git\codefirst\MySqlEf\DbSeed\obj\Debug\netcoreapp2.0\DbSeed.csprojAssemblyReference.cache
+C:\git\codefirst\MySqlEf\DbSeed\obj\Debug\netcoreapp2.0\DbSeed.csproj.CoreCompileInputs.cache
+C:\git\codefirst\MySqlEf\DbSeed\obj\Debug\netcoreapp2.0\DbSeed.AssemblyInfoInputs.cache
+C:\git\codefirst\MySqlEf\DbSeed\obj\Debug\netcoreapp2.0\DbSeed.AssemblyInfo.cs
+C:\git\codefirst\MySqlEf\DbSeed\obj\Debug\netcoreapp2.0\DbSeed.csproj.CopyComplete
+C:\git\codefirst\MySqlEf\DbSeed\obj\Debug\netcoreapp2.0\DbSeed.dll
+C:\git\codefirst\MySqlEf\DbSeed\obj\Debug\netcoreapp2.0\DbSeed.pdb
